@@ -18,9 +18,13 @@ Whether it's dissecting retail sales, analyzing music streaming trends, or evalu
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-- 📊 **Data Visualization:** Power BI, Excel Dashboards
-- 🧮 **Analytics:** DAX, Pivot Tables, Statistical Analysis
+- 📊 **Data Visualization:** Power BI, Excel Dashboards, Matplotlib, Seaborn
+- 🧮 **Analytics:** DAX, Pivot Tables, Statistical Analysis, NumPy, Pandas
 - 🗃️ **Data Handling:** SQL, Data Modeling, ETL
 - 📝 **Reporting:** Business Requirement Documents, Executive Presentations
 
@@ -54,7 +58,7 @@ Whether it's dissecting retail sales, analyzing music streaming trends, or evalu
 
 I'm always open to discussing data, analytics projects, or collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romaan-siddiqui)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumman49)
 
 ---
