@@ -1,62 +1,78 @@
-# Hi there, I'm Romaan Uddin Siddiqui 👋
+<h1 align="center">Hi, I'm Romaan Uddin Siddiqui (Rumman) 👋</h1>
+<h3 align="center">Data Analyst | Data Engineer | Building on Azure, Snowflake & AWS</h3>
 
-> *Turning raw data into clear business stories — one dashboard at a time.*
-
----
-
-## 🙋‍♂️ About Me
-
-I'm a passionate **Data Analyst** who loves transforming complex datasets into actionable insights that drive smarter business decisions. My work sits at the intersection of business understanding and data visualization — I don't just build dashboards, I build clarity.
-
-Whether it's dissecting retail sales, analyzing music streaming trends, or evaluating profitability across regions, I bring structure and storytelling to every dataset I touch.
-
----
-
-## 🛠️ My Toolkit
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- 📊 **Data Visualization:** Power BI, Excel Dashboards
-- 🧮 **Analytics:** DAX, Pivot Tables, Statistical Analysis
-- 🗃️ **Data Handling:** SQL, Data Modeling, ETL
-- 📝 **Reporting:** Business Requirement Documents, Executive Presentations
+<p align="center">
+  <a href="https://www.linkedin.com/in/PASTE_YOUR_LINKEDIN_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:PASTE_YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📂 Featured Projects
+### 🚀 About Me
 
-### 📊 [TechVision Sales & Profit Analysis](https://github.com/rumman49/TechVision-Sales-And-Profit-Analysis)
-> Excel dashboard analyzing ₹21.4 Crore in sales & profit for a consumer electronics company across Indian regions. Includes KPI cards, regional breakdowns, and product-level profitability insights.
-
----
-
-### 🎵 [Spotify Trends & Artist Performance Analysis](https://github.com/rumman49/Spotify-Trends-Artist-Performance-Analysis)
-> Power BI dashboard analyzing 527 billion Spotify followers across 8 global artists. Covers genre trends, geographic listener distribution, and engagement correlation analysis.
-
----
-
-### 🛒 [TechMart Retail Analysis](https://github.com/rumman49/TechMart-Retail-Analysis)
-> Power BI retail dashboard analyzing $2.08M in sales across products, regions, and customer segments with fully interactive slicers and drill-through pages.
+- 🎓 B.Com graduate — hands-on data analytics through **Cybrom Technology**
+- 🔧 Building skills across both **Data Analytics** and **Data Engineering** — pipelines on one side, dashboards on the other
+- ☁️ Hands-on with **Azure** (ADF, Databricks, ADLS Gen2, Delta Lake, PySpark, Medallion Architecture) and **Snowflake** (Streams, Tasks, Medallion pipelines)
+- 🌱 Currently leveling up on **AWS** (EC2, IAM, S3, Glue, Lambda, CloudWatch, Redshift, QuickSight)
+- 📍 Based in Bhopal, India — building toward a move to Bangalore
+- 💬 Open to Data Analyst / Data Engineer roles
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack
 
-![Romaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rumman49&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rumman49&layout=compact&theme=tokyonight&hide_border=true)
+**Languages & Querying**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & Data Platforms**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Data Engineering**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
+
+**Analytics & BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+### 📌 Featured Projects
 
-I'm always open to discussing data, analytics projects, or collaboration opportunities!
+<!--
+RUMMAN: Replace these placeholder links with your actual repo URLs.
+Add/remove rows for any repos you want to feature — this is a starting list based on what we've built together.
+-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romaan-siddiqui)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumman49)
+| Project | What it does | Stack |
+|---|---|---|
+| **[Databricks Medallion Architecture Project](https://github.com/rumman49/Databricks_Medallion_Architecture_Project)** | End-to-end Bronze → Silver → Gold pipeline on Databricks, with role-specific variants (Data Analyst, Data Engineer, BI Developer, ETL Developer) | Databricks, PySpark, Delta Lake, ADLS Gen2 |
+| **Spotify Performance Analysis** *(add link)* | Power BI dashboard analyzing Spotify performance metrics | Power BI |
+| **TechVision Sales Dashboard** *(add link)* | Sales dashboard built in Excel | Advanced Excel |
 
 ---
 
-> 💬 *"Data is the new oil — but insights are the refined fuel that powers decisions."*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rumman49&show_icons=true&theme=tokyonight" alt="Rumman's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumman49&theme=tokyonight" alt="Rumman's GitHub streak" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to reach out about Data Analyst / Data Engineer opportunities.</i></p>
