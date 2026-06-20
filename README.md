@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Romaan Uddin Siddiqui (Rumman) 👋</h1>
-<h3 align="center">Data Analyst | Data Engineer | Building on Azure, Snowflake & AWS</h3>
+<h3 align="center">Data Analyst | Data Engineer | Building on Azure & Snowflake</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/PASTE_YOUR_LINKEDIN_HANDLE" target="_blank">
@@ -17,8 +17,7 @@
 - 🎓 B.Com graduate — hands-on data analytics through **Cybrom Technology**
 - 🔧 Building skills across both **Data Analytics** and **Data Engineering** — pipelines on one side, dashboards on the other
 - ☁️ Hands-on with **Azure** (ADF, Databricks, ADLS Gen2, Delta Lake, PySpark, Medallion Architecture) and **Snowflake** (Streams, Tasks, Medallion pipelines)
-- 🌱 Currently leveling up on **AWS** (EC2, IAM, S3, Glue, Lambda, CloudWatch, Redshift, QuickSight)
-- 📍 Based in Bhopal, India — building toward a move to Bangalore
+- 📍 Based in Bhopal, India
 - 💬 Open to Data Analyst / Data Engineer roles
 
 ---
@@ -33,7 +32,6 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Data Engineering**
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -52,15 +50,14 @@
 ### 📌 Featured Projects
 
 <!--
-RUMMAN: Replace these placeholder links with your actual repo URLs.
-Add/remove rows for any repos you want to feature — this is a starting list based on what we've built together.
+RUMMAN: Add more rows here as you push more repos.
 -->
 
 | Project | What it does | Stack |
 |---|---|---|
 | **[Databricks Medallion Architecture Project](https://github.com/rumman49/Databricks_Medallion_Architecture_Project)** | End-to-end Bronze → Silver → Gold pipeline on Databricks, with role-specific variants (Data Analyst, Data Engineer, BI Developer, ETL Developer) | Databricks, PySpark, Delta Lake, ADLS Gen2 |
-| **Spotify Performance Analysis** *(add link)* | Power BI dashboard analyzing Spotify performance metrics | Power BI |
-| **TechVision Sales Dashboard** *(add link)* | Sales dashboard built in Excel | Advanced Excel |
+| **[Spotify Trends & Artist Performance Analysis](https://github.com/rumman49/Spotify-Trends-Artist-Performance-Analysis)** | Power BI dashboard analyzing Spotify trends and artist performance metrics | Power BI |
+| **[TechVision Sales & Profit Analysis](https://github.com/rumman49/TechVision-Sales-And-Profit-Analysis)** | Sales and profit dashboard built in Excel | Advanced Excel |
 
 ---
 
