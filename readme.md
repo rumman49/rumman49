@@ -17,7 +17,7 @@
 - 🎓 B.Com graduate — hands-on data analytics through **Cybrom Technology**
 - 🔧 Building skills across both **Data Analytics** and **Data Engineering** — pipelines on one side, dashboards on the other
 - ☁️ Hands-on with **Azure** (ADF, Databricks, ADLS Gen2, Delta Lake, PySpark, Medallion Architecture) and **Snowflake** (Streams, Tasks, Medallion pipelines)
-- 📍 Based in Bhopal, India — building toward a move to Bangalore
+- 📍 Based in Bhopal, India
 - 💬 Open to Data Analyst / Data Engineer roles
 
 ---
