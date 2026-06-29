@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Romaan Uddin Siddiqu 👋</h1>
+<h1 align="center">Hi, I'm Romaan Uddin Siddiqui 👋</h1>
 <h3 align="center">Data Analyst | Data Engineer | Building on Azure & Snowflake</h3>
 
 <p align="center">
