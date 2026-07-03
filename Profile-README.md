@@ -56,6 +56,7 @@ RUMMAN: Add more rows here as you push more repos.
 | Project | What it does | Stack |
 |---|---|---|
 | **[Databricks Medallion Architecture Project](https://github.com/rumman49/Databricks_Medallion_Architecture_Project)** | End-to-end Bronze → Silver → Gold pipeline on Databricks, with role-specific variants (Data Analyst, Data Engineer, BI Developer, ETL Developer) | Databricks, PySpark, Delta Lake, ADLS Gen2 |
+| **[Marriott Customer Churn Analysis](https://github.com/rumman49/marriott-customer-churn-analysis)** *(in progress)* | Medallion Architecture churn analysis pipeline on Snowflake — Bronze/Silver/Gold layers, CLV and churn KPI views, star schema modeling | Snowflake, SQL, AWS S3, Star Schema |
 | **[Spotify Trends & Artist Performance Analysis](https://github.com/rumman49/Spotify-Trends-Artist-Performance-Analysis)** | Power BI dashboard analyzing Spotify trends and artist performance metrics | Power BI |
 | **[TechVision Sales & Profit Analysis](https://github.com/rumman49/TechVision-Sales-And-Profit-Analysis)** | Sales and profit dashboard built in Excel | Advanced Excel |
 
