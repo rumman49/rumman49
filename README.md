@@ -53,6 +53,7 @@ RUMMAN: Add more rows here as you push more repos.
 | Project | What it does | Stack |
 |---|---|---|
 | **[Databricks Medallion Architecture Project](https://github.com/rumman49/Databricks_Medallion_Architecture_Project)** | End-to-end Bronze → Silver → Gold pipeline on Databricks, with role-specific variants (Data Analyst, Data Engineer, BI Developer, ETL Developer) | Databricks, PySpark, Delta Lake, ADLS Gen2 |
+| **[Customer Churn Analytics Platform](https://github.com/rumman49/Customer-Churn-Analytics-Platform)** | RFM segmentation (9,994 transactions → 793 customer profiles) with a recency-based proxy churn label, ML model comparison (Random Forest best at 99.37% accuracy / 0.9931 ROC-AUC), a live Streamlit prediction app, and a 4-page Power BI dashboard | Python, scikit-learn, SQL, Power BI, Streamlit |
 | **[Marriott Customer Churn Analysis](https://github.com/rumman49/Marriott-Customer-Churn-Analysis-using-Snowflake)** | Medallion Architecture pipeline on Snowflake (Bronze/Silver/Gold) ingesting hotel booking data to calculate churn, Customer Lifetime Value (CLV), and retention insights via star schema | Snowflake, SQL, AWS S3, Star Schema |
 | **[Spotify Trends & Artist Performance Analysis](https://github.com/rumman49/Spotify-Trends-Artist-Performance-Analysis)** | Power BI dashboard analyzing Spotify trends and artist performance metrics | Power BI |
 | **[TechVision Sales & Profit Analysis](https://github.com/rumman49/TechVision-Sales-And-Profit-Analysis)** | Sales and profit dashboard built in Excel | Advanced Excel |
