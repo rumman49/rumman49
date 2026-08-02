@@ -13,7 +13,6 @@
 ---
 
 ### 🚀 About Me
-
 - 🎓 B.Com graduate — hands-on data analytics through **Cybrom Technology**
 - 🔧 Building skills across both **Data Analytics** and **Data Engineering** — pipelines on one side, dashboards on the other
 - ☁️ Hands-on with **Azure** (ADF, Databricks, ADLS Gen2, Delta Lake, PySpark, Medallion Architecture) and **Snowflake** (Streams, Tasks, Medallion pipelines)
@@ -48,22 +47,19 @@
 ---
 
 ### 📌 Featured Projects
-
 <!--
 RUMMAN: Add more rows here as you push more repos.
 -->
-
 | Project | What it does | Stack |
 |---|---|---|
 | **[Databricks Medallion Architecture Project](https://github.com/rumman49/Databricks_Medallion_Architecture_Project)** | End-to-end Bronze → Silver → Gold pipeline on Databricks, with role-specific variants (Data Analyst, Data Engineer, BI Developer, ETL Developer) | Databricks, PySpark, Delta Lake, ADLS Gen2 |
-| **[Marriott Customer Churn Analysis](https://github.com/rumman49/Marriott-Customer-Churn-Analysis-using-Snowflake.git)** *(in progress)* | Medallion Architecture churn analysis pipeline on Snowflake — Bronze/Silver/Gold layers, CLV and churn KPI views, star schema modeling | Snowflake, SQL, AWS S3, Star Schema |
+| **[Marriott Customer Churn Analysis](https://github.com/rumman49/Marriott-Customer-Churn-Analysis-using-Snowflake)** | Medallion Architecture pipeline on Snowflake (Bronze/Silver/Gold) ingesting hotel booking data to calculate churn, Customer Lifetime Value (CLV), and retention insights via star schema | Snowflake, SQL, AWS S3, Star Schema |
 | **[Spotify Trends & Artist Performance Analysis](https://github.com/rumman49/Spotify-Trends-Artist-Performance-Analysis)** | Power BI dashboard analyzing Spotify trends and artist performance metrics | Power BI |
 | **[TechVision Sales & Profit Analysis](https://github.com/rumman49/TechVision-Sales-And-Profit-Analysis)** | Sales and profit dashboard built in Excel | Advanced Excel |
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rumman49&show_icons=true&theme=tokyonight" alt="Rumman's GitHub stats" />
 </p>
