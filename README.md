@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Romaan Uddin Siddiqui 👋</h1>
-<h3 align="center">Data Analyst | Data Engineer | Building on Azure & Snowflake</h3>
+<h3 align="center">Data Scientist | ML • Deep Learning • RAG | Python • SQL • TensorFlow</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/romaan-siddiqui" target="_blank">
+  <a href="https://www.linkedin.com/in/romaan-siddiqui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rummansiddiqui46@gmail.com">
@@ -13,64 +13,79 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Com graduate — hands-on data analytics through **Cybrom Technology**
-- 🔧 Building skills across both **Data Analytics** and **Data Engineering** — pipelines on one side, dashboards on the other
-- ☁️ Hands-on with **Azure** (ADF, Databricks, ADLS Gen2, Delta Lake, PySpark, Medallion Architecture) and **Snowflake** (Streams, Tasks, Medallion pipelines)
-- 📍 Based in Bhopal, India
-- 💬 Open to Data Analyst / Data Engineer roles
+
+* 🎓 B.Com graduate with hands-on experience in **Data Science, Machine Learning, and Deep Learning**
+* 🤖 Building projects involving **ML, Deep Learning, RAG, and practical AI applications**
+* 🧠 Working with **Python, Scikit-learn, TensorFlow, Pandas, NumPy, and SQL**
+* 🔎 Exploring **RAG, LangChain, embeddings, and vector databases**
+* 📊 Hands-on experience with **Data Analytics** using Power BI, Excel, SQL, and Python
+* ☁️ Familiar with **Data Engineering** technologies including Databricks, Snowflake, PySpark, ADLS Gen2, and ETL workflows
+* 📍 Bhopal, India
+* 💬 Open to **Data Scientist, Machine Learning Engineer, and Junior Data Scientist** opportunities
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages & Querying**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Cloud & Data Platforms**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-**Data Engineering**
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
+**Machine Learning & Deep Learning**
 
-**Machine Learning**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 
-**Analytics & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**RAG & AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+
+**Data Analytics & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+
+**Data Engineering & Platforms**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square\&logo=databricks\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square\&logo=snowflake\&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
 
 **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
-<!--
-RUMMAN: Add more rows here as you push more repos.
--->
-| Project | What it does | Stack |
-|---|---|---|
-| **[Databricks Medallion Architecture Project](https://github.com/rumman49/Databricks_Medallion_Architecture_Project)** | End-to-end Bronze → Silver → Gold pipeline on Databricks, with role-specific variants (Data Analyst, Data Engineer, BI Developer, ETL Developer) | Databricks, PySpark, Delta Lake, ADLS Gen2 |
-| **[Customer Churn Analytics Platform](https://github.com/rumman49/Customer-Churn-Analytics-Platform)** | RFM segmentation (9,994 transactions → 793 customer profiles) with a recency-based proxy churn label, ML model comparison (Random Forest best at 99.37% accuracy / 0.9931 ROC-AUC), a live Streamlit prediction app, and a 4-page Power BI dashboard | Python, scikit-learn, SQL, Power BI, Streamlit |
-| **[Marriott Customer Churn Analysis](https://github.com/rumman49/Marriott-Customer-Churn-Analysis-using-Snowflake)** | Medallion Architecture pipeline on Snowflake (Bronze/Silver/Gold) ingesting hotel booking data to calculate churn, Customer Lifetime Value (CLV), and retention insights via star schema | Snowflake, SQL, AWS S3, Star Schema |
-| **[Spotify Trends & Artist Performance Analysis](https://github.com/rumman49/Spotify-Trends-Artist-Performance-Analysis)** | Power BI dashboard analyzing Spotify trends and artist performance metrics | Power BI |
-| **[TechVision Sales & Profit Analysis](https://github.com/rumman49/TechVision-Sales-And-Profit-Analysis)** | Sales and profit dashboard built in Excel | Advanced Excel |
+
+| Project                                                                                                                    | Description                                                                                                                   | Stack                                          |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **[Customer Churn Analytics Platform](https://github.com/rumman49/Customer-Churn-Analytics-Platform)**                     | Customer segmentation, churn prediction, ML model comparison, Streamlit application, and Power BI dashboard                   | Python, Scikit-learn, SQL, Power BI, Streamlit |
+| **[Databricks Medallion Architecture Project](https://github.com/rumman49/Databricks_Medallion_Architecture_Project)**     | End-to-end Bronze → Silver → Gold data pipeline using a medallion architecture                                                | Databricks, PySpark, Delta Lake, ADLS Gen2     |
+| **[Marriott Customer Churn Analysis](https://github.com/rumman49/Marriott-Customer-Churn-Analysis-using-Snowflake)**       | Snowflake-based data pipeline analyzing customer churn, CLV, and retention insights using a star schema                       | Snowflake, SQL, AWS S3                         |
+| **[Spotify Trends & Artist Performance Analysis](https://github.com/rumman49/Spotify-Trends-Artist-Performance-Analysis)** | Interactive analysis of Spotify trends and artist performance                                                                 | Power BI                                       |
+| **[TechVision Sales & Profit Analysis](https://github.com/rumman49/TechVision-Sales-And-Profit-Analysis)**                 | Sales and profitability analysis with an interactive dashboard                                                                | Excel                                          |
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rumman49&show_icons=true&theme=tokyonight" alt="Rumman's GitHub stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumman49&theme=tokyonight" alt="Rumman's GitHub streak" />
 </p>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to reach out about Data Analyst / Data Engineer opportunities.</i></p>
+<p align="center">
+  <i>Building with data, machine learning, and AI — one project at a time. 🚀</i>
+</p>
